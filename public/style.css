@@ -12,7 +12,6 @@
   font-size: 3rem;
 }
 
-
 .package-card img {
   height: 200px;
   object-fit: cover;
@@ -86,10 +85,12 @@
   background: rgba(255, 255, 255, 0.8);
   border: none;
 }
+
 #contato .btn-primary {
   background-color: #ff9800;
   border: none;
 }
+
 #contato .btn-primary:hover {
   background-color: #e68900;
 }

@@ -76,7 +76,7 @@ A entrega inclui um vídeo explicativo mostrando:
 - ✅ Modelagem do banco de dados (diagramas e script SQL).
 - ✅ Explicação geral do planejamento.
 
-🔗 **Vídeo explicativo do projeto** (inserir link quando disponível)
+🔗 **[Vídeo explicativo do projeto](https://drive.google.com/file/d/1AByEMC63tJ1oljWsLJKVGNXNpf1oOYv4/view?usp=sharing)**
 
 ---
 
